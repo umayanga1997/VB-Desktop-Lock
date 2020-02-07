@@ -1,0 +1,11 @@
+C:\Users\AVI\Desktop\Danusha\Desktop Locker\Desktop Locker\bin\Debug\Desktop Locker.exe
+C:\Users\AVI\Desktop\Danusha\Desktop Locker\Desktop Locker\bin\Debug\Desktop Locker.pdb
+C:\Users\AVI\Desktop\Danusha\Desktop Locker\Desktop Locker\bin\Debug\Desktop Locker.xml
+C:\Users\AVI\Desktop\Danusha\Desktop Locker\Desktop Locker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AVI\Desktop\Danusha\Desktop Locker\Desktop Locker\obj\x86\Debug\Desktop_Locker.Form1.resources
+C:\Users\AVI\Desktop\Danusha\Desktop Locker\Desktop Locker\obj\x86\Debug\Desktop_Locker.Resources.resources
+C:\Users\AVI\Desktop\Danusha\Desktop Locker\Desktop Locker\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\AVI\Desktop\Danusha\Desktop Locker\Desktop Locker\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\AVI\Desktop\Danusha\Desktop Locker\Desktop Locker\obj\x86\Debug\Desktop Locker.exe
+C:\Users\AVI\Desktop\Danusha\Desktop Locker\Desktop Locker\obj\x86\Debug\Desktop Locker.xml
+C:\Users\AVI\Desktop\Danusha\Desktop Locker\Desktop Locker\obj\x86\Debug\Desktop Locker.pdb
